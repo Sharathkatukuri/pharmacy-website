@@ -1,0 +1,162 @@
+.topnav{
+    background-color: #1FBED6;
+}
+
+.nav-logo{
+    width: 55px;
+    height: 55px;
+}
+
+.topnav a{
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px;
+    text-align: center;
+    color: White;
+    display: block;
+    float:right;
+    margin-top: 18px;
+}
+
+.topnav.icon{
+    display: none;
+}
+
+.blog-image{
+    border-radius: 16px;
+}
+  
+.blog-heading {
+    font-size: 42px;
+    font-weight: 500;
+    font-family: Roboto;
+    color: black;
+}
+
+.blog-quote{
+    color: black;
+    font-size: 28px;
+    font-family: Roboto;
+    font-weight:300;
+}
+
+.blog-para{
+    color: black;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight:300;
+}
+
+.blog-para-ques{
+    color: black;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight:300;
+}
+
+.blog-list{
+    list-style-type:circle;
+}
+
+.blog-list-items{
+    color: black;
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight:400;
+}
+
+.contact-heading{
+    font-size: 40px;
+    font-weight: 500;
+    font-family: Roboto;
+    color: black;
+}
+
+.wcu-card {
+     background-color: white;
+     text-align: center;
+     border-radius: 8px;
+     border-style: solid;
+     border-width: 1px;
+     border-color: #e5eaf4;
+}
+
+.wcu-image{
+    width: 87px;
+    height: 90px;
+}
+
+.wcu-para{
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 300;
+    color: black;
+}
+
+.follow-us-heading{
+    font-size: 40px;
+    font-family: Roboto;
+    font-weight: 500;
+    color: black;
+    margin-top: 5px;
+}
+
+.social-media{
+    gap: 3rem;
+    margin-top: 8px;
+}
+
+.social-media-images{
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px 3px #606160;
+}
+
+.social-media-image{
+    width: 65px;
+    border-radius: 50%;
+}
+
+ 
+.footer-section{
+    background-color: black;
+}
+  
+.footer-img{
+    width: 60px;
+}
+
+.footer-heading{
+    font-size: 32px;
+    font-family: Times New Roman;
+    font-weight: 400;
+    color: White;
+} 
+  
+.footer-para{
+    font-size: 16px;
+    font-family: Times New Roman;
+    font-weight: 300;
+    color: White;
+}
+
+.footer-list1{
+    list-style-type:none;
+}
+
+.heading-item{
+    font-size: 15px;
+    font-family: Times New Roman;
+    color: White;
+    font-weight: bold;
+}
+
+.list1{
+    font-size: 14px;
+    font-family: Times New Roman;
+    color: #a5a5a3;
+}
+
+.list1:hover{
+    color: white;
+    cursor: pointer;
+}

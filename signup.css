@@ -1,0 +1,107 @@
+.main{
+   font-family: sans-serif;
+   overflow: hidden;
+   border-radius: 8px;
+   background-color: blueviolet;
+   height: 100vh;
+   background-size: cover;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+
+.signup-card{
+    height: 500px;
+    width: 360px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.login-card{
+    height: 310px;
+    width: 360px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.sign-log-heading{
+    color: black;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    cursor: pointer;
+    transition: .5s ease-in-out;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.signup-btn{
+    height: 32px;
+    width: 128px;
+    transition: .1s ease-in;
+    background-color: #96AAFC;
+    color: white;
+    justify-content: center;
+    border-width: 0px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 18px;
+    margin-bottom: 10px;
+}
+
+.signup-btn:hover{
+    background-color: #df9bec;
+}
+
+form{
+    margin-left: 20px;
+    width: 300px;
+}
+
+form label{
+    display: flex;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+form input{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+
+.signup-para{
+    font-size: 12px;
+    font-weight:300 ;
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.forgot-pswd{
+    font-size: 14px;
+    font-weight:300 ;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.forgot-card{
+    height: 390px;
+    width: 360px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+}
+
+
+
