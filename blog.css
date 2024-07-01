@@ -92,13 +92,12 @@
 }
 
 .social-media{
-    gap: 3rem;
+    gap: 2rem;
     margin-top: 8px;
 }
 
 .social-media-images{
     border-radius: 50%;
-    box-shadow: 3px 3px 3px 3px #606160;
 }
 
 .social-media-image{
