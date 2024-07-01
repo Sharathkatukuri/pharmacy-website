@@ -1,4 +1,4 @@
-.topnav{
+.navbar{
     background-color: #1FBED6;
 }
 
@@ -7,19 +7,9 @@
     height: 55px;
 }
 
-.topnav a{
-    font-size: 18px;
-    font-weight: 400;
-    padding: 10px;
-    text-align: center;
-    color: White;
-    display: block;
-    float:right;
-    margin-top: 18px;
-}
-
-.topnav.icon{
-    display: none;
+.nav-link{
+    color: #323f4b;
+    font-family: "Roboto";
 }
 
 .blog-image{
