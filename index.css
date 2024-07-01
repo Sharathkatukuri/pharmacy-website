@@ -1,4 +1,4 @@
-.topnav{
+.navbar{
     background-color: #1FBED6;
 }
 
@@ -7,23 +7,24 @@
     height: 55px;
 }
 
-.topnav a{
-    font-size: 18px;
-    font-weight: 400;
-    padding: 10px;
-    text-align: center;
-    color: White;
-    display: block;
-    float:right;
-    margin-top: 18px;
+.nav-link{
+    color: #323f4b;
+    font-family: "Roboto";
 }
 
-.topnav.icon{
-    display: none;
-}
 
 .register-btn{
-    margin-left: 950px;
+    color: white;
+    border-radius: 8px;
+    font-size: 18px;
+    border-width: 0px;
+    color:white;
+    background-image: linear-gradient(#CEFCF6, #86e8fb);
+    height:34px;
+    width: 128px;
+    font-family: "roboto";
+    display: block;
+    justify-content: end;
 }
 
 .home-bg-container {
