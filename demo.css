@@ -14,7 +14,7 @@
 
 .menu-heading{
     font-size: 42px;
-    font-family: 400;
+    font-weight: 600;
     font-family: Roboto;
     color: black;
     text-align: center;
@@ -22,7 +22,7 @@
 
 .menu-para{
     font-size: 22px;
-    font-family: 300;
+    font-weight: 500;
     font-family: Roboto;
     color: black;
     text-align: center;
